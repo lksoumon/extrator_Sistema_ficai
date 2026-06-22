@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Extrator de Dados FICAI SEDUC/MT
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.12
 // @description  Extrai dados da tabela do painel FICAI e exporta para CSV
 // @author       Você
 // @match        http://ficai.seduc.mt.gov.br/*
